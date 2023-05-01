@@ -1,2 +1,2 @@
-# Sparse_pro
-Lasso Regression + AutoEncoder
+# Sparse Variation AutoEncoder
+coming soon...
